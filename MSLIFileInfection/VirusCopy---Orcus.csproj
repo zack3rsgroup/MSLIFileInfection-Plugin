@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>VirusCopy - Orcus</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>6</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Orcus.Plugins">
+      <HintPath>C:\Users\zack3r\Documents\RATS + Miner\Modded Client\libraries\Orcus.Plugins.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

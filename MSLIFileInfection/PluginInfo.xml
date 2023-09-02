@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>MSLI File Infection</Name>
+  <Description>Infects every MSLI executable on the file system with your Orcus stub!</Description>
+  <Author>Nick (Name)</Author>
+  <AuthorUrl>http://hackforums.net/member.php?action=profile&amp;uid=2918763</AuthorUrl>
+  <Guid>3b4f11cd-1d68-42b0-85de-b214dceead46</Guid>
+  <Version>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </Version>
+  <Thumbnail>thumbnail.png</Thumbnail>
+  <PluginType>Client</PluginType>
+  <Library1>VirusCopy - Orcus.dll</Library1>
+</PluginInfo>
